@@ -19,5 +19,6 @@ This repo is only the progress diary: posts, screenshots and clips. The game's c
 | 2026-09-26 – 27 | Fuel station, pier shop, a shopkeeper who carries your order | [Fuel, shops and a shopkeeper](posts/2026-09-27-fuel-and-shops.md) |
 | 2026-09-27 | Boat 2: the harbour tug, and a kiosk to pick your boat | [The harbour tug](posts/2026-09-27-harbour-tug.md) |
 | 2026-09-28 – 29 | Engine fires you can actually fight | [Engine fire](posts/2026-09-29-engine-fire.md) |
+| 2026-09-29 | Playtest build 0.4.0 with all of the above | [Build 0.4.0](posts/2026-09-29-build-0.4.0.md) |
 
 Screenshots are straight from the game (HUD included). Clips are recorded with Godot's Movie Maker mode at 30 fps.

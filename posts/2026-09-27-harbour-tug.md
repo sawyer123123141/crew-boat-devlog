@@ -30,4 +30,6 @@ For comparison, the cruiser on a calm day:
 **Boat kiosk.** A kiosk at the pier to flip through the boats, see their speed, steadiness and room, and buy one
 with the cash from your runs.
 
-![Boat kiosk](../media/harbour-tug/boat-kiosk.jpg)
+![Boat kiosk](../media/harbour-tug/kiosk-flip.gif)
+
+([MP4](../media/harbour-tug/kiosk-flip.mp4))
