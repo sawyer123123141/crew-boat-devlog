@@ -13,7 +13,13 @@ the kiosk screen, and you pay with the arcade buttons.
 
 ![Pier shop](../media/fuel-and-shops/pier-shop.jpg)
 
-The shopkeeper then carries your order down the pier as a wobbly pile and stacks it in the boat's supply rack.
+A paid order sends the shopkeeper down the pier toward the tug:
+
+![Shopkeeper carrying an order toward the tug](../media/fuel-and-shops/shopkeeper-tug.gif)
+
+([MP4](../media/fuel-and-shops/shopkeeper-tug.mp4))
+
+For bigger orders, he carries a wobbly pile and stacks it in the boat's supply rack.
 
 ![Shopkeeper carrying the order](../media/fuel-and-shops/shopkeeper-pile.jpg)
 
