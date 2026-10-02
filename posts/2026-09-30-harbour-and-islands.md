@@ -1,29 +1,47 @@
-# A new harbour, and the first island pass — 30 September 2026
+# Harbour and islands — 30 September 2026
 
-## A proper starting dock
+Updated 1 October with the rest of the island and lobby pass.
 
-The lobby now has a square main deck, with the shop on one side and the boat selector on the other.
-A short angled branch leads to the boat. The fixed camera looks out from shore toward the dock and sea.
+## Where the first pass started
 
-![The new starting dock with the harbour tug](../media/harbour-and-islands/new-dock.jpg)
+The new modular dock gave the shop, boat selector and moored boat a proper starting area.
+The first procedural island pass added grassy hills, tree groups, coastal rocks and a lighthouse
+path. Different seeds produce different layouts.
 
-The approach is shorter, matches the rest of the deck and meets the island.
-The dock is made from reusable sections, so other harbours can use the same pieces.
-The shopkeeper follows the new layout to carry orders aboard.
+![The earlier island pass](../media/harbour-and-islands/islands-first-pass.jpg)
 
-## Islands: work in progress
+That first terrain still looked too bumpy, jagged and dark beside the bright sea. The later passes
+focused on a lower coastal shape, cleaner colour regions and a better view from the character.
 
-The boats and ocean have outgrown the old island visuals. The first generator pass replaces
-the mound and scattered props with noise-generated hills, grouped trees, rock outcrops and
-a lighthouse path along the coast. Different seeds produce different layouts.
+## The later island pass
 
-![An early generated island and the new dock](../media/harbour-and-islands/islands-first-pass.jpg)
+The grass is brighter and less lime, with subtle height tint. Softer coves and cleaner sand edges
+keep the grass and beach distinct, with a restrained grassy fringe along the transition.
+Broader rises replace the sharper bumps.
 
-![Another early island layout](../media/harbour-and-islands/islands-another-seed.jpg)
+![Current starting island after the later passes](../media/harbour-and-islands/island-follow-up.jpg)
 
-The first noise attempt made sharp peaks; the current pass rounds them off. It still looks
-too much like a collection of bumps. Next is shaping most islands into broader grassy shelves,
-rocky headlands and beach coves, with taller terrain less common. Chunky shapes and matte colours
-remain the target.
+The trees now have crooked trunks, visible forks and varied crowns. Woodland pockets, open
+meadow and the lighthouse headland give the island clearer areas. Broad grass cover sways in
+the wind; it is drawn in batches and fades with distance to keep its cost manageable.
 
-These are development screenshots, not a new playtest release. The island look is still being worked on.
+The first character-height review showed the starter island still felt like a mountain. Its
+footprint and height were reduced, with gentler slopes on the approach. Taller destination
+profiles remain available in the same generator.
+
+![The lighthouse approach from the player's view](../media/harbour-and-islands/island-player-view.jpg)
+
+The walk to the lighthouse now reads as a low island rise. The starting island may shrink
+further once there is more reason to explore it; that extra reduction has not been made yet.
+
+## Dock and lobby finish
+
+The lobby camera now faces the dock head-on. Wider plank seams and edge smoothing make the
+small deck details more readable. The triangular gap where the angled boat branch met the
+main deck has also been filled, including its walkable surface and rail.
+
+![Current head-on lobby view](../media/harbour-and-islands/dock-follow-up.jpg)
+
+This finishes the current island and lobby pass. The environment can still improve with
+playtesting: grass is fairly spiky at character height, rocks remain chunky, and distant sea
+detail can still look busy. These are development captures, not a new playtest release.

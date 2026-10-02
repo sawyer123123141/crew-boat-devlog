@@ -20,7 +20,7 @@ This repo is only the progress diary: posts, screenshots and clips. The game's c
 | 2026-09-27 | Boat 2: the harbour tug, and a kiosk to pick your boat | [The harbour tug](posts/2026-09-27-harbour-tug.md) |
 | 2026-09-28 – 29 | Engine fires you can actually fight | [Engine fire](posts/2026-09-29-engine-fire.md) |
 | 2026-09-29 | Playtest build 0.4.0 with all of the above | [Build 0.4.0](posts/2026-09-29-build-0.4.0.md) |
-| 2026-09-30 | Modular starting dock and the first procedural island art pass | [Harbour and islands](posts/2026-09-30-harbour-and-islands.md) |
+| 2026-09-30 (updated Oct 1) | Island shading, softer coast, trees and swaying grass; smaller starter and finished dock/lobby pass | [Harbour and islands](posts/2026-09-30-harbour-and-islands.md) |
 | 2026-10-01 | Gulls peck at the delivery crate; shared gameplay prototype, bird art still needs work | [Gulls on deck](posts/2026-10-01-gulls-on-deck.md) |
 
 Gameplay screenshots are from the game; some overview shots hide the HUD. Model studies use neutral lighting in Godot. Clips use Godot captures; exported GIFs may use lower frame rates.
